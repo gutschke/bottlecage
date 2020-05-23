@@ -4,7 +4,7 @@ OpenSCAD version of the "Prusa ASA Bottle Cage"
 Prusa's design of the bicycle bottle cage is great. But unfortunately, the model file cannot easily be edited. If you
 have a non-standard bicycle mount or you want to transport other types of bottles, you need to make adjustments. That's
 where my [OpenSCAD](https://openscad.org) recreation of the model comes in handy. All the major parameters are fully
-customizable at the top of the [source file][bottlecage.scad].
+customizable at the top of the [source file](bottlecage.scad).
 
 ![Bottle Cage Image](bottlecage.png)
 
