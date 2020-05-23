@@ -5,7 +5,7 @@ have a non-standard bicycle mount or you want to transport other types of bottle
 where my [OpenSCAD](https://openscad.org) recreation of the model comes in handy. All the major parameters are fully
 customizable at the top of the [source file](bottlecage.scad).
 
-![Bottle Cage Image](bottlecage.png)
+![Bottle Cage Photo](bottlecage-narrow.jpg)
 
 Recreations of another 3D model are rarely pixel perfect, but I have tried to stay as close as possible to the dimensions
 of the Prusa design. There are a small number of notable differences though. I did not implement the sweeping curves on the
@@ -19,3 +19,5 @@ The original version of Prusa's bottle cage can be found at https://www.prusapri
 Please note, that while I am the author of the OpenSCAD version of this model, the original design was not made by me
 and instead is copyrighted by [Prusa Research](https://prusa3d.com), and was released into the public domain under a
 Creative Commons CC0 license.
+
+![Bottle Cage Image](bottlecage.png)
