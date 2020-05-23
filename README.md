@@ -21,3 +21,5 @@ and instead is copyrighted by [Prusa Research](https://prusa3d.com), and was rel
 Creative Commons CC0 license.
 
 ![Bottle Cage Image](bottlecage.png)
+
+You can also find this model on [Prusa Printers](https://prusaprinters.org/prints/32158-asa-bottle-cage-openscad-model).
